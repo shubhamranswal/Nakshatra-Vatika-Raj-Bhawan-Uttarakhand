@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:nakshatra_vatika_animated/list_page/searched_page.dart';
+import 'package:nakshatra_vatika/list_page/searched_page.dart';
 
 import '../data/data.dart';
 import '../main.dart';

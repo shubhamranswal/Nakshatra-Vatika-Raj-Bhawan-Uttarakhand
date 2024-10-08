@@ -4,9 +4,9 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:fluttertoast/fluttertoast.dart';
-import 'package:nakshatra_vatika_animated/drawer_items/about_nv.dart';
-import 'package:nakshatra_vatika_animated/drawer_items/about_raj_bhawan.dart';
-import 'package:nakshatra_vatika_animated/drawer_items/privacy_policy.dart';
+import 'package:nakshatra_vatika/drawer_items/about_nv.dart';
+import 'package:nakshatra_vatika/drawer_items/about_raj_bhawan.dart';
+import 'package:nakshatra_vatika/drawer_items/privacy_policy.dart';
 
 import '../drawer_items/report_bug.dart';
 import '../list_page/list_page.dart';

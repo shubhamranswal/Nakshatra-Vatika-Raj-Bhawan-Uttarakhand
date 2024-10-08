@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.shubhamranswal.nakshatra_vatika_animated"
+    namespace = "com.shubhamranswal.nakshatra_vatika"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 

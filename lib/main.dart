@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:nakshatra_vatika_animated/splash/splash.dart';
+import 'package:nakshatra_vatika/splash/splash.dart';
 
 void main() {
   runApp(const App());
