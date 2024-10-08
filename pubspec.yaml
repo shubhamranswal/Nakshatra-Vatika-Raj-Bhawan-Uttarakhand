@@ -1,0 +1,67 @@
+name: nakshatra_vatika_animated
+description: Raj Bhawan Dehradun - Nakshatra Vatika
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  animated_text_kit: ^4.2.2
+  fluttertoast: ^8.2.8
+  getwidget: ^4.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/circleNV.PNG
+    - assets/sideElementNV.png
+    - assets/nv.png
+    - assets/loader.gif
+
+    - assets/lionLogo.png
+    - assets/rajBhawan.jpg
+
+    - assets/nakshatras/1.jpg
+    - assets/nakshatras/2.jpg
+    - assets/nakshatras/3.jpg
+    - assets/nakshatras/4.jpg
+    - assets/nakshatras/5.jpg
+    - assets/nakshatras/4.jpg
+    - assets/nakshatras/5.jpg
+    - assets/nakshatras/6.jpg
+    - assets/nakshatras/7.jpg
+    - assets/nakshatras/8.jpg
+    - assets/nakshatras/9.jpg
+    - assets/nakshatras/10.jpg
+    - assets/nakshatras/11.jpg
+    - assets/nakshatras/12.jpg
+    - assets/nakshatras/13.jpg
+    - assets/nakshatras/14.jpg
+    - assets/nakshatras/15.jpg
+    - assets/nakshatras/16.jpg
+    - assets/nakshatras/17.jpg
+    - assets/nakshatras/18.jpg
+    - assets/nakshatras/19.jpg
+    - assets/nakshatras/20.jpg
+    - assets/nakshatras/21.jpg
+    - assets/nakshatras/22.jpg
+    - assets/nakshatras/23.jpg
+    - assets/nakshatras/24.jpg
+    - assets/nakshatras/25.jpg
+    - assets/nakshatras/26.jpg
+    - assets/nakshatras/27.jpg
+
+  fonts:
+    - family: TiltNeon
+      fonts:
+        - asset: assets/fonts/TiltNeon-Regular.ttf
